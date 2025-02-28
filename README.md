@@ -6,7 +6,7 @@ I'm Nadib Rana, a passionate developer who loves building innovative solutions. 
 
 ## 🚀 Projects
 
-### [Project 1: Awesome Project](https://github.com/Nadib-Rana/project1)
+### [Project 1: My Portfolio]([https://github.com/Nadib-Rana/project1](https://nadib-rana.github.io/My-Portfolio-/))
 ![Project 1 Badge](https://img.shields.io/badge/Project-Awesome_Project-blue)
 - **Description:** A brief description of the project, its purpose, and key features.
 - **Technologies Used:** React, Node.js, MongoDB
