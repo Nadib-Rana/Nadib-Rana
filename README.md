@@ -7,11 +7,15 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with cloud computing.
 - 💬 Ask me about web development, JavaScript, and Python.
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:codecrafersnadib@gmail.com)
 - ⚡ Fun fact: I love to play chess and solve puzzles.
 
 ## GitHub Stats
 ![Nadib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadib-Rana&show_icons=true&theme=radical)
+
+### Total Commits
+- **2024:** 1010 commits
+- **2025:** 246 commits (so far)
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
