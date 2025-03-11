@@ -29,6 +29,16 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 
+## Code based  Projects
+Here are some of my notable projects:
+
+- [Project 1](https://nadib-rana.github.io/My-Portfolio-/) - This is the showcase about me and my work with Skills.
+- [Project 2](https://github.com/Nadib-Rana/InstagramClone) - This the clone of the instagram using React.js.
+- [Project 3](https://github.com/Nadib-Rana/GUBproject/tree/main/GUBstudentBridge) - Non-academin Activities of the My University.
+- [Project 5](https://github.com/Nadib-Rana/focusedtracking) - Focus training mobile Applications.
+
+
+
 ## Website Development Expertise 🚀
 
 ### Platform Specialization
@@ -49,16 +59,16 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 ![Elementor](https://img.shields.io/badge/-Elementor-FF7F50?style=flat-square&logo=elementor)
 ![WP Bakery](https://img.shields.io/badge/-WP%20Bakery-0073AA?style=flat-square&logo=wordpress)
 
+#### CRM Project
 
 
-
-## Projects
-Here are some of my notable projects:
-
-- [Project 1](https://nadib-rana.github.io/My-Portfolio-/) - This is the showcase about me and my work with Skills.
+- [Project 1](https://showupmat.com) - Online Shopping Website.
 - [Project 2](https://github.com/Nadib-Rana/InstagramClone) - This the clone of the instagram using React.js.
-- [Project 3](https://github.com/Nadib-Rana/GUBproject/tree/main/GUBstudentBridge) - Non-academin Activities of the My University.
-- [Project 5](https://github.com/Nadib-Rana/focusedtracking) - Focus training mobile Applications.
+
+
+
+
+
 
 
 ## Get in Touch
