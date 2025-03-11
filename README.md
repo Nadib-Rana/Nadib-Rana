@@ -28,8 +28,7 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-###CRM
-```.jsx
+
 import React, { useState } from 'react';
 import { 
   Box,
@@ -243,7 +242,6 @@ const CRMSection = () => {
 };
 
 export default CRMSection;
-```
 
 ## Projects
 Here are some of my notable projects:
