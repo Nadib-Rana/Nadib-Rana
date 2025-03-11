@@ -55,11 +55,14 @@ add_action('wp_enqueue_scripts', function() {
 ## Projects
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/Nadib-Rana/project1) - A brief description of what this project does.
-- [Project 2](https://github.com/Nadib-Rana/project2) - A brief description of what this project does.
+- [Project 1](https://nadib-rana.github.io/My-Portfolio-/) - This is the showcase about me and my work with Skills.
+- [Project 2](https://github.com/Nadib-Rana/InstagramClone) - This the clone of the instagram using React.js.
+- [Project 3](https://github.com/Nadib-Rana/GUBproject/tree/main/GUBstudentBridge) - Non-academin Activities of the My University.
+- [Project 5](https://github.com/Nadib-Rana/focusedtracking) - Focus training mobile Applications.
+
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - [Twitter](https://twitter.com/your-twitter-profile)
 
-Thanks for visiting my profile! Have a great day! 😄
+
