@@ -29,14 +29,14 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 
-# Website Development Expertise 🚀
+## Website Development Expertise 🚀
 
-## Platform Specialization
+### Platform Specialization
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white)
 
-### WordPress Development
+#### WordPress Development
 **Skills & Services:**
 - Custom Theme Development (PHP/HTML5/CSS3)
 - WooCommerce Configuration & Optimization
@@ -45,12 +45,12 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 - Security Hardening & Maintenance
 - Multisite Network Management
 
-```php
-// Sample WordPress Hook Example
-add_action('wp_enqueue_scripts', function() {
-    wp_enqueue_style('custom-theme', get_stylesheet_uri());
-    wp_enqueue_script('main-js', get_template_directory_uri() . '/js/main.js');
-});
+![ACF](https://img.shields.io/badge/-Advanced%20Custom%20Fields-00C4CC?style=flat-square&logo=wordpress)
+![Elementor](https://img.shields.io/badge/-Elementor-FF7F50?style=flat-square&logo=elementor)
+![WP Bakery](https://img.shields.io/badge/-WP%20Bakery-0073AA?style=flat-square&logo=wordpress)
+
+
+
 
 ## Projects
 Here are some of my notable projects:
