@@ -28,7 +28,40 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
+# CRM Expertise 🚀
 
+## CRM Development & Implementation
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Microsoft Dynamics](https://img.shields.io/badge/-Dynamics_365-002050?style=flat-square&logo=microsoft-dynamics&logoColor=white)
+
+**Key Skills:**
+- Custom CRM Development (React/Node.js/MERN Stack)
+- Salesforce Lightning Component Development
+- HubSpot CMS Customization
+- CRM Migration & Data Integration
+- Workflow Automation Design
+- Customer Journey Mapping
+- CRM Analytics & Reporting
+
+## Technical Proficiencies
+```jsx
+// Example: CRM Integration Component
+import { useCrmIntegration } from 'crm-sdk';
+
+const CRMInterface = () => {
+  const { syncContacts, trackEngagement } = useCrmIntegration({
+    apiKey: process.env.CRM_API_KEY,
+    platform: 'salesforce' // ['salesforce', 'hubspot', 'zoho']
+  });
+
+  return (
+    <CrmDashboard 
+      onDataSync={syncContacts}
+      onActivityTrack={trackEngagement}
+    />
+  );
+};
 
 ## Projects
 Here are some of my notable projects:
