@@ -13,9 +13,6 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 ## GitHub Stats
 ![Nadib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadib-Rana&show_icons=true&theme=radical)
 
-### Total Commits
-- **2024:** 1010 commits
-- **2025:** 246 commits (so far)
 
 ## Languages and Tools
 
