@@ -28,40 +28,29 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-# CRM Expertise 🚀
 
-## CRM Development & Implementation
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![Microsoft Dynamics](https://img.shields.io/badge/-Dynamics_365-002050?style=flat-square&logo=microsoft-dynamics&logoColor=white)
+# Website Development Expertise 🚀
 
-**Key Skills:**
-- Custom CRM Development (React/Node.js/MERN Stack)
-- Salesforce Lightning Component Development
-- HubSpot CMS Customization
-- CRM Migration & Data Integration
-- Workflow Automation Design
-- Customer Journey Mapping
-- CRM Analytics & Reporting
+## Platform Specialization
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white)
 
-## Technical Proficiencies
-```jsx
-// Example: CRM Integration Component
-import { useCrmIntegration } from 'crm-sdk';
+### WordPress Development
+**Skills & Services:**
+- Custom Theme Development (PHP/HTML5/CSS3)
+- WooCommerce Configuration & Optimization
+- Plugin Customization (ACF, Elementor, WP Bakery)
+- Performance Optimization (Lighthouse Score 90+)
+- Security Hardening & Maintenance
+- Multisite Network Management
 
-const CRMInterface = () => {
-  const { syncContacts, trackEngagement } = useCrmIntegration({
-    apiKey: process.env.CRM_API_KEY,
-    platform: 'salesforce' // ['salesforce', 'hubspot', 'zoho']
-  });
-
-  return (
-    <CrmDashboard 
-      onDataSync={syncContacts}
-      onActivityTrack={trackEngagement}
-    />
-  );
-};
+```php
+// Sample WordPress Hook Example
+add_action('wp_enqueue_scripts', function() {
+    wp_enqueue_style('custom-theme', get_stylesheet_uri());
+    wp_enqueue_script('main-js', get_template_directory_uri() . '/js/main.js');
+});
 
 ## Projects
 Here are some of my notable projects:
