@@ -9,14 +9,12 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 - 💬 Ask me about web development, JavaScript, and Python.
 - 📫 How to reach me: [Email](mailto:codecrafersnadib@gmail.com)
 - ⚡ Fun fact: I love to play chess and solve puzzles.
- <img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ## GitHub Stats
 ![Nadib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadib-Rana&show_icons=true&theme=radical)
 
-
 ## Languages and Tools
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white)
@@ -29,16 +27,13 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-
-## Code based  Projects
+## Code-based Projects
 Here are some of my notable projects:
 
 - [Project 1](https://nadib-rana.github.io/My-Portfolio-/) - This is the showcase about me and my work with Skills.
-- [Project 2](https://github.com/Nadib-Rana/InstagramClone) - This the clone of the instagram using React.js.
-- [Project 3](https://github.com/Nadib-Rana/GUBproject/tree/main/GUBstudentBridge) - Non-academin Activities of the My University.
-- [Project 5](https://github.com/Nadib-Rana/focusedtracking) - Focus training mobile Applications.
-
-
+- [Project 2](https://github.com/Nadib-Rana/InstagramClone) - This is the clone of Instagram using React.js.
+- [Project 3](https://github.com/Nadib-Rana/GUBproject/tree/main/GUBstudentBridge) - Non-academic Activities of my University.
+- [Project 5](https://github.com/Nadib-Rana/focusedtracking) - Focus training mobile application.
 
 ## Website Development Expertise 🚀
 
@@ -60,20 +55,10 @@ Here are some of my notable projects:
 ![Elementor](https://img.shields.io/badge/-Elementor-FF7F50?style=flat-square&logo=elementor)
 ![WP Bakery](https://img.shields.io/badge/-WP%20Bakery-0073AA?style=flat-square&logo=wordpress)
 
-#### CRM Project
-
-
+#### CRM Projects
 - [Project 1](https://showupmat.com) - Online Shopping Website.
-- [Project 2](https://github.com/Nadib-Rana/InstagramClone) - This the clone of the instagram using React.js.
-
-
-
-
-
-
+- [Project 2](https://github.com/Nadib-Rana/InstagramClone) - This is the clone of Instagram using React.js.
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - [Twitter](https://twitter.com/your-twitter-profile)
-
-
