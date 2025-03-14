@@ -59,7 +59,7 @@ Here are some of my notable projects:
 - [Project 1](https://showupmat.com) - Online Shopping Website.
 - [Project 2](https://github.com/Nadib-Rana/InstagramClone) - This is the clone of Instagram using React.js.
 
-#### Hackerrank
+## Hackerrank
   ![image](https://github.com/user-attachments/assets/7916c630-8179-4455-93cb-2b02d1b452b0)
 
 
