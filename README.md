@@ -2,14 +2,14 @@
 
 ## About Me
 I'm a passionate developer with a love for coding and technology. I enjoy learning new things and building projects that solve real-world problems. 
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 - 🌱 I’m currently learning advanced JavaScript and exploring AI/ML technologies.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with cloud computing.
 - 💬 Ask me about web development, JavaScript, and Python.
 - 📫 How to reach me: [Email](mailto:codecrafersnadib@gmail.com)
 - ⚡ Fun fact: I love to play chess and solve puzzles.
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
 
 ## GitHub Stats
 ![Nadib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadib-Rana&show_icons=true&theme=radical)
