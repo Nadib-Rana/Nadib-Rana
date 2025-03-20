@@ -47,7 +47,7 @@ Here are some of my notable projects:
 - Custom Theme Development (PHP/HTML5/CSS3)
 - WooCommerce Configuration & Optimization
 - Plugin Customization (ACF, Elementor, WP Bakery)
-- Performance Optimization (Lighthouse Score 90+)
+- Performance Optimization (Lighthouse Score 90+)...
 - Security Hardening & Maintenance
 - Multisite Network Management
 
