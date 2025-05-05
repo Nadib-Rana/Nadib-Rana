@@ -31,7 +31,7 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 Here are some of my notable projects:
 
 - [Project 1](https://nadib-rana.github.io/My-Portfolio-/) - This is the showcase about me and my work with Skills.
-- [Project 2](https://github.com/Nadib-Rana/InstagramClone) - This is the clone of Instagram using React.js.
+- [Project 2](https://github.com/Nadib-Rana/Food_Ordering-) - This is the Food Order web site , it build for my university Nonacademic services (using MERN).
 - [Project 3](https://github.com/Nadib-Rana/GUBproject/tree/main/GUBstudentBridge) - Non-academic Activities of my University.
 - [Project 5](https://github.com/Nadib-Rana/focusedtracking) - Focus training mobile application.
 
