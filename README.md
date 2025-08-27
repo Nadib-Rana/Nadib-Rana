@@ -66,3 +66,5 @@ Here are some of my notable projects:
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - [Twitter](https://twitter.com/your-twitter-profile)
+
+  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Nadib-Rana.Nadib-Rana)
