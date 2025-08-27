@@ -34,7 +34,8 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=cplusplus&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ---
 
 ## 🚀 Featured Projects  
