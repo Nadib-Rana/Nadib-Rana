@@ -14,9 +14,10 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 ---
 
 ## 📊 GitHub Stats  
-![Nadib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadib-Rana&show_icons=true&theme=radical)  
-![Profile views](https://komarev.com/ghpvc/?username=Nadib-Rana&label=Profile%20Views&color=0e75b6&style=flat)
 
+![Nadib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadib-Rana&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadib-Rana&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Nadib-Rana&label=Profile%20Views&color=0e75b6&style=flat)
 ---
 
 ## 🛠️ Languages and Tools  
