@@ -20,8 +20,7 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 ---
 
 ## 🛠️ Languages and Tools  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=cplusplus&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)  
