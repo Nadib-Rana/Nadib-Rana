@@ -90,14 +90,8 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 
 ---
 
-## 💬 Testimonials  
-> “From concept to deployment, NADIB was proactive and professional. Our portfolio site now truly reflects our brand.”  
-— *Wosif Sarkar, Technical Supervisor, nansiri*
-
 ---
 
-## 🧠 Hackerrank  
-![image](https://github.com/user-attachments/assets/7916c630-8179-4455-93cb-2b02d1b452b0)
 
 ---
 
