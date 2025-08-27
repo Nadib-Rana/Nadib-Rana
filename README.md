@@ -13,7 +13,7 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 
 ---
 
-#📊 GitHub Stats
+📊 GitHub Stats
 
 
  ![Nadib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadib-Rana&show_icons=true&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadib-Rana&layout=compact&theme=radical)
