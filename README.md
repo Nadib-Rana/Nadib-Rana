@@ -55,9 +55,7 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 ## 🌐 Website Development Expertise  
 
 ### Platform Specialization  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)  
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)  
-![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white) ![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white)
 
 ### WordPress Development  
 - Custom Theme Development (PHP/HTML5/CSS3)  
@@ -67,9 +65,7 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 - Security Hardening & Maintenance  
 - Multisite Network Management  
 
-![ACF](https://img.shields.io/badge/-Advanced%20Custom%20Fields-00C4CC?style=flat-square&logo=wordpress)  
-![Elementor](https://img.shields.io/badge/-Elementor-FF7F50?style=flat-square&logo=elementor)  
-![WP Bakery](https://img.shields.io/badge/-WP%20Bakery-0073AA?style=flat-square&logo=wordpress)
+![ACF](https://img.shields.io/badge/-Advanced%20Custom%20Fields-00C4CC?style=flat-square&logo=wordpress) ![Elementor](https://img.shields.io/badge/-Elementor-FF7F50?style=flat-square&logo=elementor) ![WP Bakery](https://img.shields.io/badge/-WP%20Bakery-0073AA?style=flat-square&logo=wordpress)
 
 ---
 
@@ -77,7 +73,7 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 
 | Degree | Institution | Year | Grade |
 |--------|-------------|------|-------|
-| BSc in CSE | Green University of Bangladesh | 2024 | CGPA: 3.10/4.00 |
+| BSc in CSE | Green University of Bangladesh | 2024 | CGPA: 3.10 |
 | HSC (Science) | Karimganj Govt. College | 2019 | GPA: 4.00 |
 | SSC (Science) | Guzadia A.H High School & College | 2017 | GPA: 4.18 |
 
