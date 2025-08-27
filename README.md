@@ -67,4 +67,5 @@ Here are some of my notable projects:
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - [Twitter](https://twitter.com/your-twitter-profile)
 
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Nadib-Rana.Nadib-Rana)
+## 👀 Visitor Counter  
+![Profile views](https://komarev.com/ghpvc/?username=Nadib-Rana&label=Profile%20Views&color=0e75b6&style=flat)
