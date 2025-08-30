@@ -9,7 +9,7 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 - 🤔 Seeking mentorship in cloud computing  
 - 💬 Ask me about web development, JavaScript, and Python  
 - 📫 Reach me at: [codecrafersnadib@gmail.com](mailto:codecrafersnadib@gmail.com)  
-- ⚡ Fun fact: I love playing chess and solving puzzles  
+- ⚡ Virtual Portfolio: [https://nadib-rana.github.io/Update-Portfolio-/](https://nadib-rana.github.io/Update-Portfolio-/)
 
 ---
 
