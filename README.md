@@ -89,12 +89,8 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 
 ---
 
----
 
-
----
 
 ## 📬 Get in Touch  
-- [LinkedIn](https://www.linkedin.com/in/nadib-rana)  
-- [Twitter](https://twitter.com/nadib_rana)  
+- [LinkedIn](https://www.linkedin.com/in/nadib-rana-72923430a/)  
 - 📍 Location: Dhaka, Bangladesh
