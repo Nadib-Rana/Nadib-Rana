@@ -22,7 +22,34 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
  ![Profile Views](https://komarev.com/ghpvc/?username=Nadib-Rana&label=Profile%20Views&color=0e75b6&style=flat)
 ---
 
-## 🛠️ Languages and Tools  
+## 🛠️ Languages and Tools 
+
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nadib-Rana&show_icons=true&theme=radical" alt="Nadib's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadib-Rana&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nadib-Rana&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nadib-Rana&theme=radical" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nadib-Rana&theme=radical" alt="Repo Overview"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nadib-Rana&theme=radical" alt="Commit Frequency"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nadib-Rana&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Nadib-Rana?label=Followers&style=for-the-badge&color=brightgreen" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Nadib-Rana?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
+</p>
 
 ### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
