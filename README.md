@@ -32,7 +32,7 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=white)  
 ![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square&logo=socket.io)  
-![nodemailer](https://img.shields.io/badge/-Nodemailer-black?style=flat-square&logo=npm)  
+![Nodemailer](https://img.shields.io/badge/-Nodemailer-black?style=flat-square&logo=npm)  
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)  
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)  
@@ -50,6 +50,8 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-black?style=flat-square&logo=shadcnui)  
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)  
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)  
+![Trader-client](https://img.shields.io/badge/-Trader--client-black?style=flat-square&logo=npm)  
+![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=flat-square&logo=overleaf)   
 
 ## 🚀 Featured Projects  
 
