@@ -24,36 +24,45 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 
 ## 🛠️ Languages and Tools  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) 
-![HTML5](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5) 
-![CSS3](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3) 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) 
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs) 
-![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square&logo=socket.io) 
-![Nodemailer](https://img.shields.io/badge/-Nodemailer-black?style=flat-square&logo=npm) 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) 
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) 
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash) 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) 
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-black?style=flat-square&logo=shadcnui) 
-![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium) 
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman) 
-![Trader-client](https://img.shields.io/badge/-Trader--client-black?style=flat-square&logo=npm) 
-![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=flat-square&logo=overleaf) 
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)  
 
+### ⚙️ Backend & Runtime  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white) 
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white) 
+![Nodemailer](https://img.shields.io/badge/Nodemailer-339933?style=for-the-badge&logo=npm&logoColor=white) 
+![Trader-client](https://img.shields.io/badge/Trader--client-000000?style=for-the-badge&logo=npm&logoColor=white)  
+
+### 🗄️ Databases & ORM  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
+
+### 🛠️ DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)  
+
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ## 🚀 Featured Projects  
 
 | Project | Description | Tech Stack | Link |
