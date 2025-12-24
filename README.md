@@ -45,8 +45,8 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **Automated Resume Maker** | Modular auth system using MERN stack with JWT, role-based access, and environment isolation | React, TypeScript, Tailwind, Framer Motion | [View Project](https://github.com/Nadib-Rana/Resume/tree/main/client) |
-| **HTML Email Signature Hub** | Delivered 260+ responsive email signatures for Gmail, Outlook, and Apple Mail | HTML, CSS, Table Layout | [View Project](https://github.com/Nadib-Rana/E-mail-Signature-) |
+| **Automated Resume Maker** | Modular auth system using MENN stack with JWT, role-based access, and environment isolation | nextJS, TypeScript, Tailwind, shadcn , Framer Motion | [View Project](https://github.com/Nadib-Rana/Resume/tree/main/client) |
+| **profinder360** | Modular auth system using MENN stack with JWT, role-based access, and environment isolation | nextJS, TypeScript, Tailwind, shadcn , Framer Motion | [View Project](profinder360.com) |
 | **Mentora** | Mentorship platform for guided reflection and leadership development | React, JavaScript, Tailwind, Express.js, Node.js, MongoDB, Postman | [View Project](https://github.com/Nadib-Rana/Mentoraa) |
 | **GreenLink** | Campus service aggregator: Lost & Found, Buy & Sell, Blood Donation, Rentals | EJS, Node.js, Express.js, MongoDB, Tailwind CSS, Postman | [View Project](https://github.com/Ahshan-Haquc/ToLetGreenUniversity) |
 | **HRMS Dashboard** | HR system with employee tracking, leave requests, and secure admin controls | React, Express, MongoDB, JWT | [View Project](https://github.com/Nadib-Rana/HR-management-) |
