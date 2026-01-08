@@ -65,7 +65,11 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white) 
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white) 
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-339933?style=for-the-badge&logo=npm&logoColor=white) 
-![Trader-client](https://img.shields.io/badge/Trader--client-000000?style=for-the-badge&logo=npm&logoColor=white)  
+![Trader-client](https://img.shields.io/badge/Trader--client-000000?style=for-the-badge&logo=npm&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Bruno](https://img.shields.io/badge/Bruno-000000?style=for-the-badge&logo=bruno&logoColor=white) 
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+
 
 ### 🗄️ Databases & ORM  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
