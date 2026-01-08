@@ -102,22 +102,6 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 | **ShowUp Mart** | Online store for fashion, accessories, and lifestyle products | WordPress, Elementor, WooCommerce | [View Project](https://showupmart.com/) |
 | **Food Corner** | Food ordering app with filters, cart, and real-time updates | React, Redux, Node.js, Socket.io | [View Project](https://github.com/Nadib-Rana/GUBFood/tree/main/FoodOrderringSof) |
 
----
-
-## 🌐 Website Development Expertise  
-
-### Platform Specialization  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white) ![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white)
-
-### WordPress Development  
-- Custom Theme Development (PHP/HTML5/CSS3)  
-- WooCommerce Configuration & Optimization  
-- Plugin Customization (ACF, Elementor, WP Bakery)  
-- Performance Optimization (Lighthouse Score 90+)  
-- Security Hardening & Maintenance  
-- Multisite Network Management  
-
-![ACF](https://img.shields.io/badge/-Advanced%20Custom%20Fields-00C4CC?style=flat-square&logo=wordpress) ![Elementor](https://img.shields.io/badge/-Elementor-FF7F50?style=flat-square&logo=elementor) ![WP Bakery](https://img.shields.io/badge/-WP%20Bakery-0073AA?style=flat-square&logo=wordpress)
 
 ---
 
