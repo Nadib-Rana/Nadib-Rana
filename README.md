@@ -66,8 +66,6 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white) 
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-339933?style=for-the-badge&logo=npm&logoColor=white) 
 ![Trader-client](https://img.shields.io/badge/Trader--client-000000?style=for-the-badge&logo=npm&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Bruno](https://img.shields.io/badge/Bruno-000000?style=for-the-badge&logo=bruno&logoColor=white) 
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
 
@@ -84,6 +82,7 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Bruno](https://img.shields.io/badge/Bruno-000000?style=for-the-badge&logo=bruno&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)  
 
