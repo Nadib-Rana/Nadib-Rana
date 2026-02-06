@@ -16,9 +16,9 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 
 ## 🐍 GitHub Contribution Activity
 
-![GitHub Contribution Snake – Light](https://github.com/Nadib-Rana/Nadib-Rana/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Contribution Snake – Dark](https://github.com/Nadib-Rana/Nadib-Rana/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-tHub Snake Dark](https://github.com/Nadib-Rana/Nadib-Rana/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Nadib-Rana/Nadib-Rana/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/Nadib-Rana/Nadib-Rana/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
