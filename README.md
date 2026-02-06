@@ -1,4 +1,7 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D4D16AQEEV95XALModg/profile-displaybackgroundimage-shrink_350_1400/B4DZj7aX5SIcAc-/0/1756564653387?e=1772064000&v=beta&t=2rl9XSFgrrxNesz_VtDENf0eZeqz3Uqx_-xTR0ze5ms)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQEpcXTpf-73zQ/profile-displayphoto-crop_800_800/B4DZqzka82JcAI-/0/1763949261732?e=1772064000&v=beta&t=_Nvrke_TLzV7T4zxOTsvKN-lIGZmaa5VMUyOMX0ddrs" width="120" style="border-radius: 50%;" alt="Nadib Rana Profile Photo">
+</p>
 
 
 # 👋 Hi there, I'm Nadib Rana
