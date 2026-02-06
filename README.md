@@ -1,3 +1,6 @@
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQEEV95XALModg/profile-displaybackgroundimage-shrink_350_1400/B4DZj7aX5SIcAc-/0/1756564653387?e=1772064000&v=beta&t=2rl9XSFgrrxNesz_VtDENf0eZeqz3Uqx_-xTR0ze5ms)
+
+
 # 👋 Hi there, I'm Nadib Rana
 
 ## 💻 About Me  
