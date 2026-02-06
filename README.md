@@ -4,8 +4,8 @@
 I'm a passionate full-stack developer with a love for coding and technology. I enjoy learning new things and building projects that solve real-world problems.  
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
--🌱 Currently learning and improving modern web & cloud technologies
--💼 Software Engineer at Betopia Group
+- 🌱 Currently learning and improving modern web & cloud technologies
+- 💼 Software Engineer at Betopia Group
 - 👯 Open to collaboration on open-source and freelance projects
 - 🤔 Actively seeking mentorship in Cloud Computing & DevOps
 - 💬 Ask me about full-stack web development
@@ -14,10 +14,11 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Activity
 
-![GitHub Snake Light](https://github.com/Nadib-Rana/Nadib-Rana/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Nadib-Rana/Nadib-Rana/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Contribution Snake – Light](https://github.com/Nadib-Rana/Nadib-Rana/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Contribution Snake – Dark](https://github.com/Nadib-Rana/Nadib-Rana/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+tHub Snake Dark](https://github.com/Nadib-Rana/Nadib-Rana/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 
