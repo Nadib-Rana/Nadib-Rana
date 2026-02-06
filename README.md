@@ -4,11 +4,11 @@
 I'm a passionate full-stack developer with a love for coding and technology. I enjoy learning new things and building projects that solve real-world problems.  
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🌱 Currently learning and improving modern web & cloud technologies
+- 🌱 Continuously learning and refining modern web and cloud technologies
 - 💼 Software Engineer at Betopia Group
 - 👯 Open to collaboration on open-source and freelance projects
-- 🤔 Actively seeking mentorship in Cloud Computing & DevOps
-- 💬 Ask me about full-stack web development
+- 🤝 Experienced in DevOps practices and cloud workflows
+- 💬 Ask me about full-stack web development, DevOps, and cloud systems
 - 📫 Reach me at: [codecrafersnadib@gmail.com](mailto:codecrafersnadib@gmail.com)  
 - ⚡ Virtual Portfolio: [https://nadib-rana.github.io/Update-Portfolio-/](https://nadib-rana.github.io/Update-Portfolio-/)
 
