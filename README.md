@@ -28,7 +28,7 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Nadib-Rana&show_icons=true&theme=radical&cache_seconds=1800" 
     height="165"
@@ -37,7 +37,7 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadib-Rana&layout=compact&theme=radical&cache_seconds=1800" 
     height="165"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img 
