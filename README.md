@@ -29,12 +29,24 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nadib-Rana&show_icons=true&theme=radical" alt="Nadib's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadib-Rana&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Nadib-Rana&show_icons=true&theme=radical&hide_border=true" 
+    alt="Nadib Rana GitHub Stats" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadib-Rana&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nadib-Rana&theme=radical" alt="GitHub Streak" height="165"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Nadib-Rana&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
+    height="165"
+  />
 </p>
 
 <p align="center">
