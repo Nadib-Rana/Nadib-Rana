@@ -111,10 +111,17 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 
 ---
 
-## 🏆 Achievements  
-- 🎓 Graduated with Honors from Green University of Bangladesh  
-- ✉️ Delivered 260+ HTML email signatures for global clients  
-- 🔐 Engineered secure authentication flows at 9AM SOLUTION  
+## 🏆 Achievements
+
+- 🎓 Graduated with Honors in Computer Science & Engineering.
+
+- 💼 Full-Stack Web Developer at Softvence (Betopia Group), delivering scalable and production-ready web solutions.
+
+- 🧩 Developed and deployed 25+ web applications with modern frontend and robust backend architectures.
+
+- 🔐 Built secure, maintainable, and high-performance backend systems, role-based access, and modular design.
+
+- 🌍 Collaborating in agile, DevOps-driven teams to deliver cloud-ready web solutions, including full backend support for web and mobile integrations.
 
 ---
 
