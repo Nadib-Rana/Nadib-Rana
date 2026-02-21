@@ -26,7 +26,6 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 </p>
 
 
-
 ## 📊 GitHub Stats  
 
 <p align="center">
