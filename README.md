@@ -1,5 +1,8 @@
-
-
+ <img 
+    src="[https://streak-stats.demolab.com?user=Nadib-Rana&theme=radical&cache_seconds=1800](https://media.licdn.com/dms/image/v2/D4D16AQEEV95XALModg/profile-displaybackgroundimage-shrink_350_1400/B4DZj7aX5SIcAc-/0/1756564653387?e=1774483200&v=beta&t=_QxFjeCMgOlfaInN9QzeOGOq8TFh32dGhP09sA26CEQ
+)" 
+    height="165"
+  />
 
 # 👋 Hi there, I'm Nadib Rana
 
