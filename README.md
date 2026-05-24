@@ -109,7 +109,7 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 |--------|-------------|------|
 | BSc in CSE | Green University of Bangladesh | 2025 |
 | HSC (Science) | Karimganj Govt. College | 2019 |
-| SSC (Science) | Guzadia A.H High School & College | 2017 | ..
+| SSC (Science) | Guzadia A.H High School & College | 2017 |
 
 ---
 
