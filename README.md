@@ -115,7 +115,7 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 
 ## 🏆 Achievements
 
-- 🎓 Graduated with Honors in Computer Science & Engineering.
+- 🎓 Graduated with Honors in Computer Science & Engineering. 
 
 - 💼 Full-Stack Web Developer at Softvence (Betopia Group), delivering scalable and production-ready web solutions.
 
@@ -131,4 +131,4 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 
 ## 📬 Get in Touch  
 - [LinkedIn](https://www.linkedin.com/in/nadib-rana-72923430a/)  
-- 📍 Location: Dhaka, Bangladesh
+- 📍 Location: Kishorganj, Dhaka, Bangladesh
