@@ -16,7 +16,7 @@ I'm a passionate full-stack developer with a love for coding and technology. I e
 - 🤝 Experienced in DevOps practices and cloud workflows
 - 💬 Ask me about full-stack web development, DevOps, and cloud systems
 - 📫 Reach me at: [codecrafersnadib@gmail.com](mailto:codecrafersnadib@gmail.com)  
-- ⚡ Virtual Portfolio: [https://nadib-rana.github.io/Update-Portfolio-/](https://nadib-rana.github.io/Update-Portfolio-/)
+- ⚡ Virtual Portfolio: [https://nadib.me])
 
 ---
 
